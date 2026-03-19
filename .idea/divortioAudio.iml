@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/src/libav.js-audio/dist/libav-6.8.8.0-audio" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libav.js-audio/src/libav.js" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libav.js-audio/src/libav.js-audio" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libav.js-audio/src/libav.js-audio/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/src/neiro-libav/src/neiro" />
+      <excludeFolder url="file://$MODULE_DIR$/src/neiro-libav/src/neiro-libav" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

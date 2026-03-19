@@ -1,0 +1,4 @@
+node_modules/
+output_test.mp3
+test_libav_encode.mjs
+.DS_Store
