@@ -1,0 +1,9 @@
+[submodule "src/audio-decode-libav"]
+	path = src/audio-decode-libav
+	url = https://github.com/divortio/audio-decode-libav.git
+[submodule "src/libav.js-audio"]
+	path = src/libav.js-audio
+	url = https://github.com/divortio/libav.js-audio.git
+[submodule "src/neiro-libav"]
+	path = src/neiro-libav
+	url = https://github.com/divortio/neiro-libav.git
